@@ -1,0 +1,10 @@
+*.pyc
+.idea/*
+.project
+.pydevproject
+dist/*
+*egg-info/*
+build/*
+Include/*
+Lib/*
+Scripts/*
